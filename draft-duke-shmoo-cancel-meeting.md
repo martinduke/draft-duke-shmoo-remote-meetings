@@ -58,10 +58,10 @@ violation, or other localized problem.
 planned location and make it unethical to further burden that infrastructure
 with a meeting.
 
-* War or civil unrest could make a meeting unsafe.
+* War, civil unrest, or public health crisis could make a meeting unsafe and/or
+result in widespread national or corporate travel bans.
 
-* A political, economic, or public health crisis could result in widespread
-national or corporate travel bans.
+* An economic crisis could sharply reduce resources available for travel.
 
 * Changes in visa policy or other unexpected governmental restrictions might
 make the venue inaccessible to numerous attendees.
@@ -109,12 +109,23 @@ staff.
 * Local health and public safety infrastructure should expect to have adequate
 capacity to support an influx of visitors during the meeting week.
 
-Additionally, there should not be any US [USSTATE] or UK [UKFO] travel
-advisories for the location of the meeting. These sources are chosen to be
-easily accessible in English. This should not be interpreted as requiring
-cancellation due to a warning about a different region in the host nation, or
-in the rural area surrounding a host city provided transportation to the
-airport is secure.
+The LLC must also confirm that:
+
+* There are no US [USSTATE], UK [UKFO], or local authority travel advisories for
+the location of the meeting. The first two are chosen to be easily accessible in
+English, which all IETF staff can read. This should not be interpreted as
+requiring cancellation due to a warning about a different region in the host
+nation, or in the rural area surrounding a host city provided transportation to
+the airport is secure.
+
+* Air travel is assessed as safe by the relevent health and safety authorities.
+
+* Travel insurance is both available and priced close to norms.
+
+* There is no quarantine or self-isolation requirement at the location.
+
+* Other similar international meetings (conferences)
+are going ahead at a similar time to IETF.
 
 Finally, the LLC should assess the impact of various travel restrictions, legal
 and corporate, on the ability of critical support staff and contractors to enter
@@ -169,6 +180,12 @@ strive to meet the criteria in {{?RFC8718}} and {{?RFC8719}}.
 Relocation that requires new air travel arrangements for attendees SHOULD NOT
 occur less than one month prior to the start of the meeting.
 
+## Virtualization
+
+The second option, and one that has fewer issues with venue availability, is to
+make the meeting fully remote. This requires different IETF processes and
+logistical operations that are outside the scope of this document.
+
 ## Postponement
 
 Although it is more disruptive to the schedules of participants, the next best
@@ -179,12 +196,6 @@ before the beginning of the following IETF meeting.
 Due to scheduling constraints at the venue, this will usually not be feasible.
 However, it is more likely to allow attendees to recover at least some of their
 travel expenses than other options.
-
-## Virtualization
-
-The third option, and one that has fewer issues with venue availability, is to
-make the meeting fully remote. This requires different IETF processes and
-logistical operations that are outside the scope of this document.
 
 ## Cancellation
 
@@ -237,3 +248,5 @@ There are no IANA requirements.
 ## Since draft-duke-remote-meetings-00
 * Defined "venue"
 * Added principles for selecting remedies and rewrote alternatives.
+* Added local authority travel advisories
+* Added some criteria from IETF 109

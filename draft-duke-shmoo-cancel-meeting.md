@@ -87,6 +87,13 @@ following criteria. This assessment SHOULD occur eight weeks prior to the first
 day of the meeting, though events may require reevaluation as late as during the
 meeting itself.
 
+This document provides a consensus of principles the LLC can apply in
+emergency situations, to avoid operating without such consensus or invoking a
+time-consuming consensus process. In the event of considerations this document
+does not foresee, the LLC should protect the health and safety of attendees,
+as well as the health of the organization, with approval from the IESG and a 
+plan to seek a later update of this document.
+
 The criteria in Section 3.1 of {{?RFC8718}} apply to venues that have changed
 status. Specifically:
 
@@ -151,8 +158,8 @@ can operate effectively?
 leverage the advantages of in-person meetings, even if many participants are
 remote?
 
-The IESG is encouraged to solicit information from Working Group chairs to make
-this assessment.
+The IESG is encouraged to solicit information from the IRTF char, Working Group
+chairs, and Research Group chairs to make this assessment.
 
 # Remedies
 
@@ -244,6 +251,10 @@ There are no IANA requirements.
 # Acknowledgments
 
 # Change Log
+
+## Since draft-duke-shmoo-cancel-meetings-00
+* Added mention of IRTF
+* Discussed consensus on cancellation
 
 ## Since draft-duke-remote-meetings-00
 * Defined "venue"

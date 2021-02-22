@@ -1,7 +1,7 @@
 ---
 title: Considerations for Cancellation of IETF Meetings
 abbrev: Canceling Meetings
-docname: draft-duke-shmoo-cancel-meeting-01
+docname: draft-ietf-shmoo-cancel-meeting-00
 date: {DATE}
 category: bcp
 ipr: trust200902
@@ -251,6 +251,9 @@ There are no IANA requirements.
 # Acknowledgments
 
 # Change Log
+
+## Since draft-duke-shmoo-cancel-meetings-01
+* Change to WG draft
 
 ## Since draft-duke-shmoo-cancel-meetings-00
 * Added mention of IRTF

@@ -1,7 +1,7 @@
 ---
 title: Considerations for Cancellation of IETF Meetings
 abbrev: Canceling Meetings
-docname: draft-ietf-shmoo-cancel-meeting-00
+docname: draft-ietf-shmoo-cancel-meeting-01
 date: {DATE}
 category: bcp
 ipr: trust200902
@@ -23,22 +23,12 @@ normative:
 
 informative:
 
-  USSTATE:
-    title: International Travel
-    author:
-      - name: U.S. Dept. of State
-    target: "https://travel.state.gov/content/travel/en/international-travel.html"
-  UKFO:
-    title: Foreign Travel Advice
-    author:
-      - name: U.K. Foreign Office
-    target: "https://www.gov.uk/foreign-travel-advice"
 
 --- abstract
 
-The IETF firmly believes in the value of in-person meetings to reach consensus
-on documents. However, various emergencies can make a planned in-person meeting
-impossible. This document provides criteria for making this judgment.
+The IETF firmly believes in the value of in-person meetings to discuss and
+undestand issues. However, various emergencies can make a planned in-person
+meeting impossible. This document provides criteria for making this judgment.
 
 --- middle
 
@@ -47,12 +37,12 @@ impossible. This document provides criteria for making this judgment.
 One highlight of the IETF calendar is in-person general meetings, which happen
 three times a year at various locations around the world.
 
-Various events could make a scheduled IETF meeting impossible, in that a
-particular time or place can be largely closed to travel or assembly. These
-conditions do not always have obvious thresholds. For example:
+Various major events may affect the suitability of a scheduled in-person IETF
+meeting, though for some this may not be immediately obvious. For example:
 
-* The meeting venue itself may close unexpectedly due to a health issue, legal
-violation, or other localized problem.
+* The meeting venue itself may unexpectedly close or otherwise be unable to meet
+IETF meeting requirements due to a health issue, legal violation, or other
+localized problem.
 
 * A natural disaster could degrade the travel and event infrastructure in a
 planned location and make it unethical to further burden that infrastructure
@@ -80,19 +70,39 @@ sessions and the official meeting hotel(s).
 
 # Decision Criteria and Roles
 
+The LLC assesses whether or not an in-person meeting is logistically and
+financially viable in light of events, and assembles information about various
+travel restrictions that might impact attendance. The IESG assesses if the
+projected attendance is sufficient for a viable in-person meeting.
+
 ## IETF LLC
 
-The LLC is responsible for assessing if it is safe to hold the meeting given the
-following criteria. This assessment SHOULD occur eight weeks prior to the first
-day of the meeting, though events may require reevaluation as late as during the
-meeting itself.
+The LLC is responsible for assessing the suitability of a venue for an IETF
+meeting and is responsible for any reassessment in response to a major event
+that leaves the prior conclusion in doubt. Where such an event occurs more that
+twelve weeks before the start of the scheduled meeting, it is deemed a non-
+emergency situation. Later events, up to and including the week of the meeting
+itself, are deemed an emergency situation. 
 
-This document provides a consensus of principles the LLC can apply in
-emergency situations, to avoid operating without such consensus or invoking a
-time-consuming consensus process. In the event of considerations this document
-does not foresee, the LLC should protect the health and safety of attendees,
-as well as the health of the organization, with approval from the IESG and a 
-plan to seek a later update of this document.
+In non-emergency situations, if the LLC determines the scheduled meeting clearly
+cannot proceed (e.g. the venue has permanently closed), then it MUST consult
+with the community on the reason(s) and its proposed remedy. In less clear
+cases, the LLC SHOULD conduct a formal reassessment process that includes:
+
+* Consulting with the community on the process timetable
+* Consulting with the community on criteria to assess the impact of new
+developments
+* Consulting with the community on the form of the assessment report
+* Publishing an assessment report and recommended remedy.
+* Seeking approval of the IESG for the recommendation.
+
+In emergency situations, which lack the time for a consultation process, this
+document provides an IETF consensus on criteria the LLC MUST apply in its
+assessment.
+
+The LLC will collect information about the likely impact to in-person
+attendance of national travel advisories, national and corporate travel bans,
+quarantine requirements, etc. and report the results to the IESG.
 
 The criteria in Section 3.1 of {{?RFC8718}} apply to venues that have changed
 status. Specifically:
@@ -110,46 +120,36 @@ their Internet use.  To ensure availability, it MUST be possible to provision
 redundant paths to the Internet.
 
 * A reasonable number of food and drink establishments are open and available
-within walking distance to provide for the full number of participants and
+within walking distance to provide for the expected number of participants and
 staff.
 
 * Local health and public safety infrastructure should expect to have adequate
 capacity to support an influx of visitors during the meeting week.
 
-The LLC must also confirm that:
+Finally, the LLC MUST assess the impact on its own operations, including:
 
-* There are no US [USSTATE], UK [UKFO], or local authority travel advisories for
-the location of the meeting. The first two are chosen to be easily accessible in
-English, which all IETF staff can read. This should not be interpreted as
-requiring cancellation due to a warning about a different region in the host
-nation, or in the rural area surrounding a host city provided transportation to
-the airport is secure.
+* The number of critical support staff and contractors who can be at the venue
 
-* Air travel is assessed as safe by the relevent health and safety authorities.
+* The financial impact of continuing the meeting, or implementing any of the
+possible remedies.
 
-* Travel insurance is both available and priced close to norms.
+The LLC SHOULD cancel the meeting if it judges the meeting to be logistically
+impossible or inconsistent with its fiduciary responsibilities.
 
-* There is no quarantine or self-isolation requirement at the location.
-
-* Other similar international meetings (conferences)
-are going ahead at a similar time to IETF.
-
-Finally, the LLC should assess the impact of various travel restrictions, legal
-and corporate, on the ability of critical support staff and contractors to enter
-the host nation. The LLC can cancel the event if it concludes it cannot
-adequately support it.
+In the event of considerations this document does not foresee, the LLC should
+protect the health and safety of attendees and staff, as well as the fiscal
+health of the organization, with approval from the IESG and a plan to seek a
+later update of this document.
 
 ## IESG
 
-The IESG assesses if projected attendance is high enough to capture the benefit
-of an in-person meeting. In some cases, corporate travel restrictions may lower
-attendance in the absence of any formal guidance from authorities. If it
-concludes that attendance is too low, it can cancel the meeting regardless of
-the LLC's safety assessment.
+If the LLC assesses there are no fundamental logistical or financial obstacles
+to holding the meeting, the IESG assesses if projected attendance is high enough
+to capture the benefit of an in-person meeting.
 
 The IESG is discouraged from relying on a simple head count of expected event
 attendance. Even dramatically smaller events with large remote participation may
-be successful.  The IESG might consider:
+be successful.  In addition to the LLC's estimate, the IESG might consider:
 
 * Are many working groups largely unaffected by the restrictions, so that they
 can operate effectively?
@@ -157,9 +157,6 @@ can operate effectively?
 * Is there a critical mass of key personnel at most working group meetings to
 leverage the advantages of in-person meetings, even if many participants are
 remote?
-
-The IESG is encouraged to solicit information from the IRTF char, Working Group
-chairs, and Research Group chairs to make this assessment.
 
 # Remedies
 
@@ -251,6 +248,12 @@ There are no IANA requirements.
 # Acknowledgments
 
 # Change Log
+
+## Since draft-ietf-shmoo-cancel-meetings-00
+* Jay Daley's nits
+* Distinguish the emergency and non-emergency process
+* Eliminated USSTATE/UKFO references
+* Clarified roles of LLC and IESG
 
 ## Since draft-duke-shmoo-cancel-meetings-01
 * Change to WG draft

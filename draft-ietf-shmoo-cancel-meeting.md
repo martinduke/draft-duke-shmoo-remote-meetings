@@ -72,8 +72,8 @@ sessions and the official meeting hotel(s).
 
 The LLC assesses whether or not an in-person meeting is logistically and
 financially viable in light of events, and assembles information about various
-travel restrictions that might impact attendance. The IESG assesses if the
-projected attendance is sufficient for a viable in-person meeting.
+travel restrictions that might impact attendance. The IESG and IRTF chair
+assess if the projected attendance is sufficient for a viable in-person meeting.
 
 ## IETF LLC
 
@@ -141,18 +141,18 @@ protect the health and safety of attendees and staff, as well as the fiscal
 health of the organization, with approval from the IESG and a plan to seek a
 later update of this document.
 
-## IESG
+## IESG and IRTF Chair
 
 If the LLC assesses there are no fundamental logistical or financial obstacles
-to holding the meeting, the IESG assesses if projected attendance is high enough
-to capture the benefit of an in-person meeting.
+to holding the meeting, the IESG and IRTF chair assess if projected attendance
+is high enough to capture the benefit of an in-person meeting.
 
 The IESG is discouraged from relying on a simple head count of expected event
 attendance. Even dramatically smaller events with large remote participation may
 be successful.  In addition to the LLC's estimate, the IESG might consider:
 
-* Are many working groups largely unaffected by the restrictions, so that they
-can operate effectively?
+* Are many working groups and research groups largely unaffected by the
+restrictions, so that they can operate effectively?
 
 * Is there a critical mass of key personnel at most working group meetings to
 leverage the advantages of in-person meetings, even if many participants are

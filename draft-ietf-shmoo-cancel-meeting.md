@@ -1,7 +1,7 @@
 ---
 title: Considerations for Cancellation of IETF Meetings
 abbrev: Canceling Meetings
-docname: draft-ietf-shmoo-cancel-meeting-01
+docname: draft-ietf-shmoo-cancel-meeting-03
 date: {DATE}
 category: bcp
 ipr: trust200902
@@ -231,6 +231,11 @@ claim they cannot attend at the newly scheduled time.
 venue-related payments, past or future, it can and rebate this to registered
 attendees, up to a maximum of their total cost of registration.
 
+* The LLC SHOULD offer refunds to attendees whose nation of residence forbids,
+or has issued a safety advisory against, visits to the host venue, even if the
+in-person meeting will continue. It SHOULD NOT refund cancellations due to
+employer policy or personal risk assessments.
+
 These provisions intend to maintain trust between the IETF and its participants.
 However, under extraordinary threats to the solvency of the organization, the
 LLC may suspend them.
@@ -248,6 +253,12 @@ There are no IANA requirements.
 # Acknowledgments
 
 # Change Log
+
+## Since draft-ietf-shmoo-cancel-meetings-02
+* Added IRTF to IESG responsibilities
+
+## Since draft-ietf-shmoo-cancel-meetings-01
+* Added refund principles for hybrid meetings
 
 ## Since draft-ietf-shmoo-cancel-meetings-00
 * Jay Daley's nits

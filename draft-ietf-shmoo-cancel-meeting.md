@@ -86,7 +86,7 @@ emergency situation. Later events, up to and including the week of the meeting
 itself, are deemed an emergency situation. 
 
 In non-emergency situations, if the LLC determines the scheduled meeting clearly
-cannot proceed (e.g. the venue has permanently closed), then it MUST consult
+cannot proceed (e.g., the venue has permanently closed), then it MUST consult
 with the community on the reason(s) and its proposed remedy. In less clear
 cases, the LLC SHOULD conduct a formal reassessment process that includes:
 

@@ -70,10 +70,11 @@ sessions and the official meeting hotel(s).
 
 # Decision Criteria and Roles
 
-The LLC assesses whether or not an in-person meeting is logistically and
-financially viable in light of events, and assembles information about various
-travel restrictions that might impact attendance. The IESG and IRTF chair
-assess if the projected attendance is sufficient for a viable in-person meeting.
+The IETF Administration LLC (LLC) assesses whether or not an in-person meeting
+is logistically and financially viable in light of events, and assembles
+information about various travel restrictions that might impact attendance. The
+Internet Engineering Steering Group (IESG) and IRTF chair assess if the
+projected attendance is sufficient for a viable in-person meeting.
 
 ## IETF LLC
 
@@ -89,11 +90,15 @@ cannot proceed (e.g. the venue has permanently closed), then it MUST consult
 with the community on the reason(s) and its proposed remedy. In less clear
 cases, the LLC SHOULD conduct a formal reassessment process that includes:
 
-* Consulting with the community on the process timetable
+* Consulting with the community on the process timetable.
+
 * Consulting with the community on criteria to assess the impact of new
-developments
-* Consulting with the community on the form of the assessment report
+developments.
+
+* Consulting with the community on the form of the assessment report.
+
 * Publishing an assessment report and recommended remedy.
+
 * Seeking approval of the IESG for the recommendation.
 
 In emergency situations, which lack the time for a consultation process, this
@@ -128,7 +133,7 @@ capacity to support an influx of visitors during the meeting week.
 
 Finally, the LLC MUST assess the impact on its own operations, including:
 
-* The number of critical support staff and contractors who can be at the venue
+* The number of critical support staff and contractors who can be at the venue.
 
 * The financial impact of continuing the meeting, or implementing any of the
 possible remedies.
@@ -164,9 +169,9 @@ In the event cannot be held at the scheduled time and place, the IETF has
 several options. The remedies below should be consdered in light of these
 principles, presented in no particular order:
 
-* Hold the scheduled sessions of the meeting in some format
+* Hold the scheduled sessions of the meeting in some format.
 
-* Provide benefits of in-person interactions when possible
+* Provide benefits of in-person interactions when possible.
 
 * Avoid exorbitant additional travel expenses due to last minute flight changes,
 etc.
@@ -210,7 +215,7 @@ rhythm of IETF personnel policies, such as the nomination process and seating
 of new officers.
 
 Cancellation is likely the only practical alternative when emergencies occur
-immeidiately before or during the meeting, so that there is no opportunity to
+immediately before or during the meeting, so that there is no opportunity to
 make other arrangements.
 
 # Refunds
@@ -256,6 +261,7 @@ There are no IANA requirements.
 
 ## Since draft-ietf-shmoo-cancel-meetings-02
 * Added IRTF to IESG responsibilities
+* WGLC Nits
 
 ## Since draft-ietf-shmoo-cancel-meetings-01
 * Added refund principles for hybrid meetings

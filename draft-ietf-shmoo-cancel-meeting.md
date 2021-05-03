@@ -26,9 +26,9 @@ informative:
 
 --- abstract
 
-The IETF firmly believes in the value of in-person meetings to discuss and
-undestand issues. However, various emergencies can make a planned in-person
-meeting impossible. This document provides criteria for making this judgment.
+The IETF holds three in-person meetings per year to discuss and understand
+issues. However, various emergencies can make a planned in-person meeting
+impossible. This document provides criteria for making this judgment.
 
 --- middle
 
@@ -109,8 +109,8 @@ The LLC will collect information about the likely impact to in-person
 attendance of national travel advisories, national and corporate travel bans,
 quarantine requirements, etc. and report the results to the IESG.
 
-The criteria in Section 3.1 of {{?RFC8718}} apply to venues that have changed
-status. Specifically:
+The criteria in Section 3.1 of {{?RFC8718}} apply to venues that are re-
+evaluated due to an emergency. Specifically:
 
 * Local safety guidelines allow the venue and hotels to host a meeting with the
 expected number of participants and staff.
@@ -200,7 +200,8 @@ logistical operations that are outside the scope of this document.
 Although it is more disruptive to the schedules of participants, the next best
 option is to delay the meeting until a specific date at which conditions are
 expected to improve. The new end date of the meeting must be at least 30 days
-before the beginning of the following IETF meeting.
+before the beginning of the following IETF meeting, and the meeting must
+begin no earlier than 1 month after the postponement announcement.
 
 Due to scheduling constraints at the venue, this will usually not be feasible.
 However, it is more likely to allow attendees to recover at least some of their
@@ -210,7 +211,7 @@ travel expenses than other options.
 
 As a last resort, IETF may cancel the meeting totally. This is a last resort in
 the event that worldwide conditions make it difficult for attendees to even
-attend remotely. Not holding a meeting at all has wide implications for the
+attend remotely. Not holding a meeting at all can have wide implications for the
 rhythm of IETF personnel policies, such as the nomination process and seating
 of new officers.
 

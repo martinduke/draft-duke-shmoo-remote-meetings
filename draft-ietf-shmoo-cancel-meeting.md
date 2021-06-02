@@ -1,7 +1,7 @@
 ---
 title: Considerations for Cancellation of IETF Meetings
 abbrev: Canceling Meetings
-docname: draft-ietf-shmoo-cancel-meeting-03
+docname: draft-ietf-shmoo-cancel-meeting-latest
 date: {DATE}
 category: bcp
 ipr: trust200902

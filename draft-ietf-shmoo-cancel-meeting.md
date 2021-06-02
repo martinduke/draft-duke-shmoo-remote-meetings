@@ -28,7 +28,7 @@ informative:
 
 The IETF holds three in-person meetings per year to discuss and understand
 issues. However, various emergencies can make a planned in-person meeting
-impossible. This document provides criteria for making this judgment.
+infeasible. This document provides criteria for making this judgment.
 
 --- middle
 
@@ -165,7 +165,7 @@ remote?
 
 # Remedies
 
-In the event cannot be held at the scheduled time and place, the IETF has
+If the event cannot be held at the scheduled time and place, the IETF has
 several options. The remedies below should be consdered in light of these
 principles, presented in no particular order:
 
@@ -176,8 +176,8 @@ principles, presented in no particular order:
 * Avoid exorbitant additional travel expenses due to last minute flight changes,
 etc.
 
-* The available time and resources allow the alternative to be adequately
-prepared.
+* Ensure the available time and resources allow the alternative to be
+adequately prepared.
 
 ## Relocation
 

@@ -34,17 +34,17 @@ infeasible. This document provides criteria for making this judgment.
 
 # Introduction
 
-One highlight of the IETF calendar is in-person general meetings, which happen
-three times a year at various locations around the world.
+Among the highlights of the IETF calendar are in-person general meetings, which
+happen three times a year at various locations around the world.
 
 Various major events may affect the suitability of a scheduled in-person IETF
 meeting, though for some this may not be immediately obvious. For example:
 
-* The meeting venue itself may unexpectedly close or otherwise be unable to meet
+* A meeting venue itself may unexpectedly close or otherwise be unable to meet
 IETF meeting requirements due to a health issue, legal violation, or other
 localized problem.
 
-* A natural disaster could degrade the travel and event infrastructure in a
+* A natural disaster could degrade the travel and meeting infrastructure in a
 planned location and make it unethical to further burden that infrastructure
 with a meeting.
 
@@ -56,34 +56,35 @@ result in widespread national or corporate travel bans.
 * Changes in visa policy or other unexpected governmental restrictions might
 make the venue inaccessible to numerous attendees.
 
-This document provides procedures for the IETF to decide to postpone, move, or
-cancel an in-person IETF meeting.
+This document provides criteria to aid the IETF Administration LLC (LLC) in
+deciding to postpone, move, or cancel an in-person IETF meeting.
 
 # Conventions
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
-"SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be
-interpreted as described in RFC 2119 {{?RFC2119}}.
+"SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this
+document are to be interpreted as described in BCP 14 {{!RFC2119}} {{!RFC8174}}
+when, and only when, they appear in all capitals, as shown here.
 
 In this document, the term "venue" refers to both the facility that houses the
 sessions and the official meeting hotel(s).
 
 # Decision Criteria and Roles
 
-The IETF Administration LLC (LLC) assesses whether or not an in-person meeting
-is logistically and financially viable in light of events, and assembles
-information about various travel restrictions that might impact attendance. The
-Internet Engineering Steering Group (IESG) and IRTF chair assess if the
+The LLC assesses whether an in-person meeting is logistically and financially
+viable in light of events, and assembles information about various travel
+restrictions that might impact attendance. The Internet Engineering Steering
+Group (IESG) and Internet Research Task Force (IRTF) Chair assess if the
 projected attendance is sufficient for a viable in-person meeting.
 
 ## IETF LLC
 
 The LLC is responsible for assessing the suitability of a venue for an IETF
 meeting and is responsible for any reassessment in response to a major event
-that leaves the prior conclusion in doubt. Where such an event occurs more that
-twelve weeks before the start of the scheduled meeting, it is deemed a non-
-emergency situation. Later events, up to and including the week of the meeting
-itself, are deemed an emergency situation. 
+that leaves the prior conclusion in doubt. If such an event occurs more than
+twelve weeks before the start of the scheduled meeting, it is deemed a
+non-emergency situation. Later events, up to and including the week of a meeting
+itself, are deemed an emergency situation.
 
 In non-emergency situations, if the LLC determines the scheduled meeting clearly
 cannot proceed (e.g., the venue has permanently closed), then it MUST consult
@@ -102,15 +103,15 @@ developments.
 * Seeking approval of the IESG for the recommendation.
 
 In emergency situations, which lack the time for a consultation process, this
-document provides an IETF consensus on criteria the LLC MUST apply in its
-assessment.
+document provides criteria that have IETF consensus and which the LLC MUST apply
+in its assessment.
 
 The LLC will collect information about the likely impact to in-person
 attendance of national travel advisories, national and corporate travel bans,
 quarantine requirements, etc. and report the results to the IESG.
 
-The criteria in Section 3.1 of {{?RFC8718}} apply to venues that are re-
-evaluated due to an emergency. Specifically:
+These criteria, some of which are derived from Section 3 of {{?RFC8718}}, apply
+to venues that are re-evaluated due to an emergency:
 
 * Local safety guidelines allow the venue and hotels to host a meeting with the
 expected number of participants and staff.
@@ -135,10 +136,10 @@ Finally, the LLC MUST assess the impact on its own operations, including:
 
 * The number of critical support staff and contractors who can be at the venue.
 
-* The financial impact of continuing the meeting, or implementing any of the
+* The financial impact of continuing a meeting, or implementing any of the
 possible remedies.
 
-The LLC SHOULD cancel the meeting if it judges the meeting to be logistically
+The LLC SHOULD cancel a meeting if it judges a meeting to be logistically
 impossible or inconsistent with its fiduciary responsibilities.
 
 In the event of considerations this document does not foresee, the LLC should
@@ -149,11 +150,12 @@ later update of this document.
 ## IESG and IRTF Chair
 
 If the LLC assesses there are no fundamental logistical or financial obstacles
-to holding the meeting, the IESG and IRTF chair assess if projected attendance
-is high enough to capture the benefit of an in-person meeting.
+to holding a meeting in an emergency situation, the IESG and IRTF Chair assess
+if projected attendance is high enough to achieve the benefit of an in-person
+meeting.
 
-The IESG is discouraged from relying on a simple head count of expected event
-attendance. Even dramatically smaller events with large remote participation may
+The IESG is discouraged from relying on a simple head count of expected meeting
+attendance. Even dramatically smaller meetings with large remote participation may
 be successful.  In addition to the LLC's estimate, the IESG might consider:
 
 * Are many working groups and research groups largely unaffected by the
@@ -165,11 +167,11 @@ remote?
 
 # Remedies
 
-If the event cannot be held at the scheduled time and place, the IETF has
-several options. The remedies below should be consdered in light of these
-principles, presented in no particular order:
+If a meeting cannot be held at the scheduled time and place, the LLC and IESG
+have several options. The remedies in this section should be considered in light
+of four principles, presented in no particular order:
 
-* Hold the scheduled sessions of the meeting in some format.
+* Hold the scheduled sessions of a meeting in some format.
 
 * Provide benefits of in-person interactions when possible.
 
@@ -183,8 +185,8 @@ adequately prepared.
 
 For attendees, the least disruptive response is to retain the meeting week but
 move it to a more accessible venue. To the maximum extent possible, this will be
-geographically close to the original venue. In particular, the IETF should
-strive to meet the criteria in {{?RFC8718}} and {{?RFC8719}}.
+geographically close to the original venue. In particular, the LLC SHOULD
+strive to meet the criteria in {{!RFC8718}} and {{!RFC8719}}.
 
 Relocation that requires new air travel arrangements for attendees SHOULD NOT
 occur less than one month prior to the start of the meeting.
@@ -192,31 +194,33 @@ occur less than one month prior to the start of the meeting.
 ## Virtualization
 
 The second option, and one that has fewer issues with venue availability, is to
-make the meeting fully remote. This requires different IETF processes and
+make a meeting fully remote. This requires different IETF processes and
 logistical operations that are outside the scope of this document.
 
 ## Postponement
 
 Although it is more disruptive to the schedules of participants, the next best
-option is to delay the meeting until a specific date at which conditions are
-expected to improve. The new end date of the meeting must be at least 30 days
-before the beginning of the following IETF meeting, and the meeting must
-begin no earlier than 1 month after the postponement announcement.
+option is to delay a meeting until a specific date, at the same venue, at
+which conditions are expected to improve. The new end date of a meeting must
+be at least 30 days before the beginning of the following IETF meeting, and a
+meeting must begin no earlier than 1 month after the postponement announcement.
 
 Due to scheduling constraints at the venue, this will usually not be feasible.
 However, it is more likely to allow attendees to recover at least some of their
 travel expenses than other options.
 
+Note that it is possible to both postpone and relocate a meeting, though this
+has the disadvantages of both.
+
 ## Cancellation
 
-As a last resort, IETF may cancel the meeting totally. This is a last resort in
-the event that worldwide conditions make it difficult for attendees to even
-attend remotely. Not holding a meeting at all can have wide implications for the
-rhythm of IETF personnel policies, such as the nomination process and seating
-of new officers.
+As a last resort, the LLC and IESG may cancel a meeting entirely. This is a
+last resort in the event that worldwide conditions make it difficult for
+attendees to even attend remotely. Not holding a meeting at all can have wide
+implications, such as the nomination process and seating of new officers.
 
 Cancellation is likely the only practical alternative when emergencies occur
-immediately before or during the meeting, so that there is no opportunity to
+immediately before or during a meeting, so that there is no opportunity to
 make other arrangements.
 
 # Refunds
@@ -229,11 +233,11 @@ fees is appropriate:
 
 * Cancellation SHOULD result in a full refund to all participants. It MAY be
 prorated if some portion of the sessions completed without incident.
-         
+
 * Upon postponement, the LLC SHOULD offer refunds to registered attendees who
 claim they cannot attend at the newly scheduled time.
 
-* When the meeting becomes remote, the LLC SHOULD attempt to recover whatever
+* When a meeting becomes remote, the LLC SHOULD attempt to recover whatever
 venue-related payments, past or future, it can and rebate this to registered
 attendees, up to a maximum of their total cost of registration.
 
@@ -259,6 +263,10 @@ There are no IANA requirements.
 # Acknowledgments
 
 # Change Log
+
+## Since draft-ietf-shmoo-cancel-meetings-03
+
+* Clarifications from AD review
 
 ## Since draft-ietf-shmoo-cancel-meetings-02
 * Added IRTF to IESG responsibilities

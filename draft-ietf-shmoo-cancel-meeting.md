@@ -44,7 +44,7 @@ meeting, though for some this may not be immediately obvious. For example:
 IETF meeting requirements due to a health issue, legal violation, or other
 localized problem.
 
-* A natural disaster could degrade the travel and event infrastructure in a
+* A natural disaster could degrade the travel and meeting infrastructure in a
 planned location and make it unethical to further burden that infrastructure
 with a meeting.
 

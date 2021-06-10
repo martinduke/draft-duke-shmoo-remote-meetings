@@ -150,7 +150,7 @@ later update of this document.
 ## IESG and IRTF Chair
 
 If the LLC assesses there are no fundamental logistical or financial obstacles
-to holding a meeting in an emergency situation, the IESG and IRTF chair assess
+to holding a meeting in an emergency situation, the IESG and IRTF Chair assess
 if projected attendance is high enough to achieve the benefit of an in-person
 meeting.
 

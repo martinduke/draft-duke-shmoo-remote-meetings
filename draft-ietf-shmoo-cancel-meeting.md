@@ -34,7 +34,7 @@ infeasible. This document provides criteria for making this judgment.
 
 # Introduction
 
-Among the highlights of the IETF calendar is in-person general meetings, which
+Among the highlights of the IETF calendar are in-person general meetings, which
 happen three times a year at various locations around the world.
 
 Various major events may affect the suitability of a scheduled in-person IETF

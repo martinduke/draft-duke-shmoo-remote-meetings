@@ -167,7 +167,7 @@ remote?
 
 # Remedies
 
-If an event cannot be held at the scheduled time and place, the LLC and IESG
+If a meeting cannot be held at the scheduled time and place, the LLC and IESG
 have several options. The remedies in this section should be considered in light
 of four principles, presented in no particular order:
 

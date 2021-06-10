@@ -154,7 +154,7 @@ to holding a meeting in an emergency situation, the IESG and IRTF Chair assess
 if projected attendance is high enough to achieve the benefit of an in-person
 meeting.
 
-The IESG is discouraged from relying on a simple head count of expected event
+The IESG is discouraged from relying on a simple head count of expected meeting
 attendance. Even dramatically smaller events with large remote participation may
 be successful.  In addition to the LLC's estimate, the IESG might consider:
 

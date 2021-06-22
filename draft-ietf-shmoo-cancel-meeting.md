@@ -235,7 +235,8 @@ fees is appropriate:
 prorated if some portion of the sessions completed without incident.
 
 * Upon postponement, the LLC SHOULD offer refunds to registered attendees who
-claim they cannot attend at the newly scheduled time.
+claim they cannot attend at the newly scheduled time. Attendees can opt out of
+receiving a refund.
 
 * When a meeting becomes remote, the LLC SHOULD attempt to recover whatever
 venue-related payments, past or future, it can and rebate this to registered

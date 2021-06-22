@@ -82,7 +82,7 @@ projected attendance is sufficient for a viable in-person meeting.
 The LLC is responsible for assessing the suitability of a venue for an IETF
 meeting and is responsible for any reassessment in response to a major event
 that leaves the prior conclusion in doubt. If such an event occurs more than
-twelve weeks before the start of the scheduled meeting, it is deemed a
+fourteen weeks before the start of the scheduled meeting, it is deemed a
 non-emergency situation. Later events, up to and including the week of a meeting
 itself, are deemed an emergency situation.
 
@@ -214,10 +214,10 @@ has the disadvantages of both.
 
 ## Cancellation
 
-As a last resort, the LLC and IESG may cancel a meeting entirely. This is a
-last resort in the event that worldwide conditions make it difficult for
-attendees to even attend remotely. Not holding a meeting at all can have wide
-implications, such as the nomination process and seating of new officers.
+The LLC and IESG may cancel a meeting entirely in the event that worldwide
+conditions make it difficult for attendees to even attend remotely. Not holding
+a meeting at all can have wide implications, such as the nomination process and
+seating of new officers.
 
 Cancellation is likely the only practical alternative when emergencies occur
 immediately before or during a meeting, so that there is no opportunity to
@@ -238,9 +238,10 @@ prorated if some portion of the sessions completed without incident.
 claim they cannot attend at the newly scheduled time. Attendees can opt out of
 receiving a refund.
 
-* When a meeting becomes remote, the LLC SHOULD attempt to recover whatever
-venue-related payments, past or future, it can and rebate this to registered
-attendees, up to a maximum of their total cost of registration.
+* When a meeting becomes remote, the LLC MUST refund registered attendees the
+difference between their paid registration fee and the equivalent fee for a
+remote meeting. The LLC SHOULD offer refunds to registered attendees who do not
+wish to attend a remote meeting.
 
 * The LLC SHOULD offer refunds to attendees whose nation of residence forbids,
 or has issued a safety advisory against, visits to the host venue, even if the

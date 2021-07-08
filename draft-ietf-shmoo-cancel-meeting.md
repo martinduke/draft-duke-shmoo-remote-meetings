@@ -28,7 +28,7 @@ informative:
 
 The IETF holds three in-person meetings per year to discuss and understand
 issues. However, various emergencies can make a planned in-person meeting
-infeasible. This document provides criteria for making this judgment.
+infeasible. This document provides criteria for assessing meeting feasibility.
 
 --- middle
 
@@ -91,7 +91,7 @@ cannot proceed (e.g., the venue has permanently closed), then it MUST consult
 with the community on the reason(s) and its proposed remedy. In less clear
 cases, the LLC SHOULD conduct a formal reassessment process that includes:
 
-* Consulting with the community on the process timetable.
+* Consulting with the community on the timetable of the decision process.
 
 * Consulting with the community on criteria to assess the impact of new
 developments.
@@ -216,7 +216,7 @@ has the disadvantages of both.
 
 The LLC and IESG may cancel a meeting entirely in the event that worldwide
 conditions make it difficult for attendees to even attend remotely. Not holding
-a meeting at all can have wide implications, such as the nomination process and
+a meeting at all can have wide implications, such as effects on the nomination process and
 seating of new officers.
 
 Cancellation is likely the only practical alternative when emergencies occur

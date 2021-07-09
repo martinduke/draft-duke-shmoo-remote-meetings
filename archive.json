@@ -1,0 +1,306 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-07-08T00:26:48.196452+00:00",
+  "repo": "martinduke/draft-ietf-shmoo-cancel-meeting",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU2ODI5NTEyODA=",
+      "title": "Converge with 109 Criteria",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/issues/1",
+      "state": "CLOSED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Mirja points out that the 109 criteria (https://www.ietf.org/how/meetings/109/assessment-framework-person-vs-online-ietf-109-meeting) has diverged a bit from the draft, which is based on 108. Some concrete examples:\r\n\r\n- Quarantine requirements are not listed anywhere\r\n- \"inherently discriminatory\" travel restrictions. (On this one, I'm not sure how to build a general priniciple out of this -- many countries have discriminatory entry policies if you look hard enough).\r\n- if national bans or extraordinary airfare increases exclude over 20% of expected attendees (based on historical data for events in that region)\r\n- mass gatherings of less than 500 people are allowed.\r\n\r\n",
+      "createdAt": "2020-08-20T17:36:22Z",
+      "updatedAt": "2021-06-09T18:23:02Z",
+      "closedAt": "2021-06-09T18:23:02Z",
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU2ODI5NTE5Nzg=",
+      "title": "Add local authorities",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/issues/2",
+      "state": "CLOSED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Add the local authorities, not just US and UK travel advisories.",
+      "createdAt": "2020-08-20T17:37:04Z",
+      "updatedAt": "2021-06-09T18:22:54Z",
+      "closedAt": "2021-06-09T18:22:54Z",
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "MDU6SXNzdWU4MzQyNTM0NTg=",
+      "title": "Comments from IETF110",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/issues/3",
+      "state": "CLOSED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Thread starts here: https://mailarchive.ietf.org/arch/msg/manycouches/pIaIKX3OqHOND5w4uJGOWhbdmCQ/",
+      "createdAt": "2021-03-17T23:27:00Z",
+      "updatedAt": "2021-06-02T18:56:59Z",
+      "closedAt": "2021-06-02T18:56:59Z",
+      "comments": [
+        {
+          "author": "martinduke",
+          "authorAssociation": "OWNER",
+          "body": "Fixed by #4",
+          "createdAt": "2021-06-02T18:56:59Z",
+          "updatedAt": "2021-06-02T18:56:59Z"
+        }
+      ]
+    }
+  ],
+  "pulls": [
+    {
+      "number": 4,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAzMjUyNDQ5",
+      "title": "ietf110 comments",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/4",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "draft -01",
+      "createdAt": "2021-03-30T00:14:59Z",
+      "updatedAt": "2021-03-30T02:01:20Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "f1880fc1c87b75e534562e302c6cf9d37f60b5b6",
+      "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "110-comments",
+      "headRefOid": "4a392843fa3f8d2c3aff0e361fbe852f48d8931b",
+      "closedAt": "2021-03-30T00:15:04Z",
+      "mergedAt": "2021-03-30T00:15:04Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "d5f8bab07708cc14c04673d8e546cd1e4583b62a"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 5,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY2MTY4MDYy",
+      "title": "Lars review",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/5",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-06-09T18:18:27Z",
+      "updatedAt": "2021-06-10T16:00:20Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "main",
+      "baseRefOid": "700cf74537d56099e747247947d7b0e25e07be5a",
+      "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "ad-comments",
+      "headRefOid": "4b97c592d1b2d44ffc6fd7c6bb5c2c5de723e9dd",
+      "closedAt": "2021-06-10T15:53:06Z",
+      "mergedAt": "2021-06-10T15:53:06Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "d0096f030628038930d0659f14e770a0616363f0"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwNDAwOTM1",
+          "commit": {
+            "abbreviatedOid": "5c968c8"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2021-06-10T06:48:07Z",
+          "updatedAt": "2021-06-10T06:54:49Z",
+          "comments": [
+            {
+              "originalPosition": 6,
+              "body": "```suggestion\r\nAmong the highlights of the IETF calendar are in-person general meetings, which\r\n```",
+              "createdAt": "2021-06-10T06:48:07Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 104,
+              "body": "```suggestion\r\nto holding a meeting in an emergency situation, the IESG and IRTF Chair assess\r\n```",
+              "createdAt": "2021-06-10T06:49:33Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 117,
+              "body": "```suggestion\r\nIf a meeting cannot be held at the scheduled time and place, the LLC and IESG\r\n```",
+              "createdAt": "2021-06-10T06:49:54Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 117,
+              "body": "Could you also check other uses of \"event\" vs. \"meeting\" throughout the document? A \"meeting\" is what we hold, an \"event\" is the thing that might cause us to cancel a meeting (at least I think that is how most of the text is written.)",
+              "createdAt": "2021-06-10T06:52:51Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 108,
+              "body": "```suggestion\r\nThe IESG is discouraged from relying on a simple head count of expected meeting\r\n```",
+              "createdAt": "2021-06-10T06:54:14Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 109,
+              "body": "```suggestion\r\nattendance. Even dramatically smaller meetings with large remote participation may\r\n```",
+              "createdAt": "2021-06-10T06:54:37Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwODY1MDcw",
+          "commit": {
+            "abbreviatedOid": "4b97c59"
+          },
+          "author": "martinduke",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-06-10T14:32:43Z",
+          "updatedAt": "2021-06-10T14:32:44Z",
+          "comments": [
+            {
+              "originalPosition": 117,
+              "body": "OK, it's done. If you're now happy with it, I'll merge this and publish a new version.",
+              "createdAt": "2021-06-10T14:32:43Z",
+              "updatedAt": "2021-06-10T14:32:44Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwOTQ5MDQz",
+          "commit": {
+            "abbreviatedOid": "4b97c59"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2021-06-10T15:40:23Z",
+          "updatedAt": "2021-06-10T15:40:23Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njc1Nzg1MzU0",
+      "title": "Jay Daley Review",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/6",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-06-22T21:55:04Z",
+      "updatedAt": "2021-06-24T17:15:02Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "main",
+      "baseRefOid": "94e73e7b3d742e4dcdfd2974d2df08b0cb59900c",
+      "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "jay-daley",
+      "headRefOid": "b156292228d01570c390a1bdcf1b3e1005c41a79",
+      "closedAt": "2021-06-24T17:15:02Z",
+      "mergedAt": "2021-06-24T17:15:01Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "618c9afa4a229290fa4f0baff0b2071885ba7856"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njg1NDg4NTcz",
+      "title": "Editorial suggestions from Benjamin Kaduk's IESG review",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/7",
+      "state": "OPEN",
+      "author": "kaduk",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-07-07T20:25:08Z",
+      "updatedAt": "2021-07-07T20:25:08Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "main",
+      "baseRefOid": "618c9afa4a229290fa4f0baff0b2071885ba7856",
+      "headRepository": "kaduk/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "nits",
+      "headRefOid": "2e2dae3dc5cc0d73867bda70b4c2d139d27f517f",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}

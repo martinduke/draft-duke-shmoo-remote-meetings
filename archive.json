@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-07-08T00:26:48.196452+00:00",
+  "timestamp": "2021-07-11T00:29:26.214642+00:00",
   "repo": "martinduke/draft-ietf-shmoo-cancel-meeting",
   "labels": [
     {
@@ -281,24 +281,95 @@
       "id": "MDExOlB1bGxSZXF1ZXN0Njg1NDg4NTcz",
       "title": "Editorial suggestions from Benjamin Kaduk's IESG review",
       "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/7",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "kaduk",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2021-07-07T20:25:08Z",
-      "updatedAt": "2021-07-07T20:25:08Z",
+      "updatedAt": "2021-07-08T05:39:13Z",
       "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
       "baseRefName": "main",
       "baseRefOid": "618c9afa4a229290fa4f0baff0b2071885ba7856",
       "headRepository": "kaduk/draft-ietf-shmoo-cancel-meeting",
       "headRefName": "nits",
-      "headRefOid": "2e2dae3dc5cc0d73867bda70b4c2d139d27f517f",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "f8f3ddb3b83a1804e2c8ce790d0c129533aa97bd",
+      "closedAt": "2021-07-08T04:54:50Z",
+      "mergedAt": "2021-07-08T04:54:49Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "b15e77f471cf68507650be7f7884220113528aa1"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzAxNjM4MDcw",
+          "commit": {
+            "abbreviatedOid": "2e2dae3"
+          },
+          "author": "martinduke",
+          "authorAssociation": "OWNER",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2021-07-08T04:53:35Z",
+          "updatedAt": "2021-07-08T04:54:14Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\r\ninfeasible. This document provides criteria for assessing meeting feasibility.\r\n```",
+              "createdAt": "2021-07-08T04:53:35Z",
+              "updatedAt": "2021-07-08T04:54:14Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzAxNjU2ODk3",
+          "commit": {
+            "abbreviatedOid": "f8f3ddb"
+          },
+          "author": "kaduk",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-07-08T05:39:13Z",
+          "updatedAt": "2021-07-08T05:39:13Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "Oops, how embarassing!\r\nThough perhaps in my defense I can claim that MITbeef holds meatings...",
+              "createdAt": "2021-07-08T05:39:13Z",
+              "updatedAt": "2021-07-08T05:39:13Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njg2OTc2MjAy",
+      "title": "Ben's comments",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/8",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-07-09T18:44:24Z",
+      "updatedAt": "2021-07-09T18:46:30Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "main",
+      "baseRefOid": "b15e77f471cf68507650be7f7884220113528aa1",
+      "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "kaduk",
+      "headRefOid": "2ef215214daf38dc972b57bdd68c79b6a9e59868",
+      "closedAt": "2021-07-09T18:46:30Z",
+      "mergedAt": "2021-07-09T18:46:30Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "98a8acd5a477e1101208e18e2679235c3e55be8c"
+      },
       "comments": [],
       "reviews": []
     }

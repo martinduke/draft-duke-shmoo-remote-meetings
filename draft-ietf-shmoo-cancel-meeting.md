@@ -118,14 +118,14 @@ to venues that are re-evaluated due to an emergency:
 * Local safety guidelines allow the venue and hotels to host a meeting with the
 expected number of participants and staff.
 
-* It is possible to provision Internet Access to the Facility and IETF Hotels
-that allows those attending in person to utilize the Internet for all their
-IETF, business, and day-to-day needs; in addition, there must be sufficient
-bandwidth and access for remote attendees.  Provisions include, but are not
-limited to, native and unmodified IPv4 and IPv6 connectivity, and global
-reachability; there may be no additional limitation that would materially impact
-their Internet use.  To ensure availability, it MUST be possible to provision
-redundant paths to the Internet.
+* It is possible to provision Internet access to the venue that allows those
+attending in person to utilize the Internet for all their IETF, business, and
+day-to-day needs; in addition, there must be sufficient bandwidth and access for
+remote attendees.  Provisions include, but are not limited to, native and
+unmodified IPv4 and IPv6 connectivity, and global reachability; there may be no
+additional limitation that would materially impact their Internet use.  To
+ensure availability, it MUST be possible to provision redundant paths to the
+Internet.
 
 * A reasonable number of food and drink establishments are open and available
 within walking distance to provide for the expected number of participants and
@@ -180,8 +180,7 @@ of four principles, presented in no particular order:
 * Avoid exorbitant additional travel expenses due to last minute flight changes,
 etc.
 
-* Ensure the available time and resources allow the alternative to be
-adequately prepared.
+* Ensure sufficient time and resources to adequately prepare an alternative.
 
 ## Relocation
 

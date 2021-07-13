@@ -168,7 +168,8 @@ Table of Contents
 
    *  Publishing an assessment report and recommended remedy.
 
-   *  Seeking approval of the IESG for the recommendation.
+   *  Seeking approval of the IESG and IRTF Chair for the
+      recommendation.
 
    In emergency situations, which lack the time for a consultation
    process, this document provides criteria that have IETF consensus and
@@ -177,7 +178,7 @@ Table of Contents
    The LLC will collect information about the likely impact to in-person
    attendance of national travel advisories, national and corporate
    travel bans, availability of transportation, quarantine requirements,
-   etc. and report the results to the IESG.
+   etc. and report the results to the IESG and IRTF Chair.
 
    These criteria, some of which are derived from Section 3 of
    [RFC8718], apply to venues that are re-evaluated due to an emergency:
@@ -219,7 +220,8 @@ Table of Contents
    In the event of considerations this document does not foresee, the
    LLC should protect the health and safety of attendees and staff, as
    well as the fiscal health of the organization, with approval from the
-   IESG.  The IESG should pursue a later update of this document.
+   IESG and IRTF Chair.  The IESG should pursue a later update of this
+   document.
 
 3.2.  IESG and IRTF Chair
 
@@ -229,10 +231,11 @@ Table of Contents
    achieve the benefit of an in-person meeting.  The IESG and IRTF Chair
    SHOULD cancel the in-person meeting if that benefit is insufficient.
 
-   The IESG is discouraged from relying on a simple head count of
-   expected meeting attendance.  Even dramatically smaller meetings with
-   large remote participation may be successful.  In addition to the
-   LLC's estimate, the IESG might consider:
+   The IESG and IRTF Chair are discouraged from relying on a simple head
+   count of expected meeting attendance.  Even dramatically smaller
+   meetings with large remote participation may be successful.  In
+   addition to the LLC's estimate, the IESG and IRTF Chair might
+   consider:
 
    *  Are many working groups and research groups largely unaffected by
       the restrictions, so that they can operate effectively?
@@ -243,10 +246,10 @@ Table of Contents
 
 4.  Remedies
 
-   If a meeting cannot be held at the scheduled time and place, the LLC
-   and IESG have several options.  The remedies in this section should
-   be considered in light of four principles, presented in no particular
-   order:
+   If a meeting cannot be held at the scheduled time and place, the LLC,
+   IESG, and IRTF Chair have several options.  The remedies in this
+   section should be considered in light of four principles, presented
+   in no particular order:
 
    *  Hold the scheduled sessions of a meeting in some format.
 
@@ -298,11 +301,11 @@ Table of Contents
 
 4.4.  Cancellation
 
-   The LLC and IESG may cancel a meeting entirely in the event that
-   worldwide conditions make it difficult for attendees to even attend
-   online.  Not holding a meeting at all can have wide implications,
-   such as effects on the nomination process and seating of new
-   officers.
+   The LLC, IESG, and IRTF Chair may cancel a meeting entirely in the
+   event that worldwide conditions make it difficult for attendees to
+   even attend online.  Not holding a meeting at all can have wide
+   implications, such as effects on the nomination process and seating
+   of new officers.
 
    Cancellation is likely the only practical alternative when
    emergencies occur immediately before or during a meeting, so that

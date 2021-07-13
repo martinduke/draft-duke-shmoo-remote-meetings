@@ -26,8 +26,8 @@ informative:
 
 --- abstract
 
-The IETF holds three in-person meetings per year to discuss and understand
-issues. However, various emergencies can make a planned in-person meeting
+The IETF holds three in-person meetings per year to discuss issues and advance
+the Internet. However, various emergencies can make a planned in-person meeting
 infeasible. This document provides criteria to aid the IETF Administration LLC
 (LLC), Internet Engineering Steering Group (IESG), and Internet Research Task
 Force (IRTF) Chair in deciding to postpone, move, or cancel an in-person IETF
@@ -252,8 +252,8 @@ attendees the difference between their paid registration fee and the equivalent
 fee for an online meeting. The LLC SHOULD offer refunds to registered attendees
 who do not wish to attend an online meeting.
 
-* The LLC SHOULD offer refunds to attendees whose nation of residence forbids,
-or has issued a safety advisory against, visits to the host venue, even if the
+* The LLC SHOULD offer refunds to attendees whose government forbids, or has
+issued a safety advisory against, visits to the host venue, even if the
 in-person meeting will continue. It SHOULD NOT refund cancellations due to
 employer policy or personal risk assessments.
 

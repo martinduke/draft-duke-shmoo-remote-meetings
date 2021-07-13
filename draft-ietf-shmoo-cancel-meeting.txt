@@ -110,7 +110,7 @@ Table of Contents
       bans.
 
    *  An economic crisis could sharply reduce resources available for
-      travel.
+      travel, resulting in lower expected attendance.
 
    *  Changes in visa policy or other unexpected governmental
       restrictions might make the venue inaccessible to numerous
@@ -256,6 +256,9 @@ Table of Contents
 
    *  Ensure sufficient time and resources to adequately prepare an
       alternative.
+
+   These remedies are listed in approximate declining order of
+   preference.
 
 4.1.  Relocation
 

@@ -112,7 +112,8 @@ in its assessment.
 
 The LLC will collect information about the likely impact to in-person
 attendance of national travel advisories, national and corporate travel bans,
-quarantine requirements, etc. and report the results to the IESG.
+availability of transportation, quarantine requirements, etc. and report the
+results to the IESG.
 
 These criteria, some of which are derived from Section 3 of {{?RFC8718}}, apply
 to venues that are re-evaluated due to an emergency:

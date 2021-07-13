@@ -142,8 +142,9 @@ Finally, the LLC MUST assess the impact on its own operations, including:
 * The financial impact of continuing a meeting, or implementing any of the
 possible remedies.
 
-The LLC SHOULD cancel a meeting if it judges a meeting to be logistically
-impossible or inconsistent with its fiduciary responsibilities.
+The LLC SHOULD cancel an in-person meeting and explore potential remedies if it
+judges a meeting to be logistically impossible or inconsistent with its
+fiduciary responsibilities.
 
 In the event of considerations this document does not foresee, the LLC should
 protect the health and safety of attendees and staff, as well as the fiscal
@@ -155,7 +156,8 @@ a later update of this document.
 If the LLC assesses there are no fundamental logistical or financial obstacles
 to holding a meeting in an emergency situation, the IESG and IRTF Chair assess
 if projected attendance is high enough to achieve the benefit of an in-person
-meeting.
+meeting. The IESG and IRTF Chair SHOULD cancel the in-person meeting if that
+benefit is insufficient.
 
 The IESG is discouraged from relying on a simple head count of expected meeting
 attendance. Even dramatically smaller meetings with large remote participation
@@ -198,7 +200,7 @@ occur less than one month prior to the start of the meeting.
 ## Virtualization
 
 The second option, and one that has fewer issues with venue availability, is to
-make a meeting fully remote. This requires different IETF processes and
+make a meeting fully online. This requires different IETF processes and
 logistical operations that are outside the scope of this document.
 
 ## Postponement
@@ -207,7 +209,7 @@ Although it is more disruptive to the schedules of participants, the next best
 option is to delay a meeting until a specific date, at the same venue, at
 which conditions are expected to improve. The new end date of a meeting must
 be at least 30 days before the beginning of the following IETF meeting, and a
-meeting must begin no earlier than 30 days after the postponement announcement.
+meeting MUST begin no earlier than 30 days after the postponement announcement.
 
 Due to scheduling constraints at the venue, this will usually not be feasible.
 However, it is more likely to allow attendees to recover at least some of their
@@ -219,7 +221,7 @@ has the disadvantages of both.
 ## Cancellation
 
 The LLC and IESG may cancel a meeting entirely in the event that worldwide
-conditions make it difficult for attendees to even attend remotely. Not holding
+conditions make it difficult for attendees to even attend online. Not holding
 a meeting at all can have wide implications, such as effects on the nomination
 process and seating of new officers.
 
@@ -242,10 +244,10 @@ prorated if some portion of the sessions completed without incident.
 claim they cannot attend at the newly scheduled time. Attendees can opt out of
 receiving a refund.
 
-* When a meeting becomes remote, the LLC MUST offer to refund registered
+* When a meeting is virtualized, the LLC MUST offer to refund registered
 attendees the difference between their paid registration fee and the equivalent
-fee for a remote meeting. The LLC SHOULD offer refunds to registered attendees
-who do not wish to attend a remote meeting.
+fee for an online meeting. The LLC SHOULD offer refunds to registered attendees
+who do not wish to attend an online meeting.
 
 * The LLC SHOULD offer refunds to attendees whose nation of residence forbids,
 or has issued a safety advisory against, visits to the host venue, even if the

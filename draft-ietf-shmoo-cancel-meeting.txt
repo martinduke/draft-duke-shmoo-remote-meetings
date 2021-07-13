@@ -13,12 +13,13 @@ Expires: 14 January 2022
 
 Abstract
 
-   The IETF holds three in-person meetings per year to discuss and
-   understand issues.  However, various emergencies can make a planned
-   in-person meeting infeasible.  This document provides criteria to aid
-   the IETF Administration LLC (LLC), Internet Engineering Steering
-   Group (IESG), and Internet Research Task Force (IRTF) Chair in
-   deciding to postpone, move, or cancel an in-person IETF meeting.
+   The IETF holds three in-person meetings per year to discuss issues
+   and advance the Internet.  However, various emergencies can make a
+   planned in-person meeting infeasible.  This document provides
+   criteria to aid the IETF Administration LLC (LLC), Internet
+   Engineering Steering Group (IESG), and Internet Research Task Force
+   (IRTF) Chair in deciding to postpone, move, or cancel an in-person
+   IETF meeting.
 
 Discussion Venues
 
@@ -332,11 +333,11 @@ Table of Contents
       The LLC SHOULD offer refunds to registered attendees who do not
       wish to attend an online meeting.
 
-   *  The LLC SHOULD offer refunds to attendees whose nation of
-      residence forbids, or has issued a safety advisory against, visits
-      to the host venue, even if the in-person meeting will continue.
-      It SHOULD NOT refund cancellations due to employer policy or
-      personal risk assessments.
+   *  The LLC SHOULD offer refunds to attendees whose government
+      forbids, or has issued a safety advisory against, visits to the
+      host venue, even if the in-person meeting will continue.  It
+      SHOULD NOT refund cancellations due to employer policy or personal
+      risk assessments.
 
    These provisions intend to maintain trust between the IETF and its
    participants.  However, under extraordinary threats to the solvency

@@ -28,7 +28,10 @@ informative:
 
 The IETF holds three in-person meetings per year to discuss and understand
 issues. However, various emergencies can make a planned in-person meeting
-infeasible. This document provides criteria for assessing meeting feasibility.
+infeasible. This document provides criteria to aid the IETF Administration LLC
+(LLC), Internet Engineering Steering Group (IESG), and Internet Research Task
+Force (IRTF) Chair in deciding to postpone, move, or cancel an in-person IETF
+meeting.
 
 --- middle
 

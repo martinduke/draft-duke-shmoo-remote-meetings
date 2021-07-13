@@ -52,7 +52,8 @@ with a meeting.
 * War, civil unrest, or public health crisis could make a meeting unsafe and/or
 result in widespread national or corporate travel bans.
 
-* An economic crisis could sharply reduce resources available for travel.
+* An economic crisis could sharply reduce resources available for travel,
+resulting in lower expected attendance.
 
 * Changes in visa policy or other unexpected governmental restrictions might
 make the venue inaccessible to numerous attendees.
@@ -181,6 +182,8 @@ of four principles, presented in no particular order:
 etc.
 
 * Ensure sufficient time and resources to adequately prepare an alternative.
+
+These remedies are listed in approximate declining order of preference.
 
 ## Relocation
 

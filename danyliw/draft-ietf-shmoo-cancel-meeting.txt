@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                      10 June 2021
-Expires: 12 December 2021
+Intended status: Best Current Practice                      13 July 2021
+Expires: 14 January 2022
 
 
             Considerations for Cancellation of IETF Meetings
@@ -16,7 +16,7 @@ Abstract
    The IETF holds three in-person meetings per year to discuss and
    understand issues.  However, various emergencies can make a planned
    in-person meeting infeasible.  This document provides criteria for
-   making this judgment.
+   assessing meeting feasibility.
 
 Discussion Venues
 
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 12 December 2021.
+   This Internet-Draft will expire on 14 January 2022.
 
 Copyright Notice
 
@@ -94,8 +94,8 @@ Table of Contents
    the world.
 
    Various major events may affect the suitability of a scheduled in-
-   person IETF meeting, though for some this may not be immediately
-   obvious.  For example:
+   person IETF meeting, though for some events this may not be
+   immediately obvious.  For example:
 
    *  A meeting venue itself may unexpectedly close or otherwise be
       unable to meet IETF meeting requirements due to a health issue,
@@ -117,8 +117,9 @@ Table of Contents
       attendees.
 
    This document provides criteria to aid the IETF Administration LLC
-   (LLC) in deciding to postpone, move, or cancel an in-person IETF
-   meeting.
+   (LLC), Internet Engineering Steering Group (IESG), and Internet
+   Research Task Force (IRTF) Chair in deciding to postpone, move, or
+   cancel an in-person IETF meeting.
 
 2.  Conventions
 
@@ -145,7 +146,7 @@ Table of Contents
    The LLC is responsible for assessing the suitability of a venue for
    an IETF meeting and is responsible for any reassessment in response
    to a major event that leaves the prior conclusion in doubt.  If such
-   an event occurs more than twelve weeks before the start of the
+   an event occurs more than fourteen weeks before the start of the
    scheduled meeting, it is deemed a non-emergency situation.  Later
    events, up to and including the week of a meeting itself, are deemed
    an emergency situation.
@@ -156,7 +157,8 @@ Table of Contents
    its proposed remedy.  In less clear cases, the LLC SHOULD conduct a
    formal reassessment process that includes:
 
-   *  Consulting with the community on the process timetable.
+   *  Consulting with the community on the timetable of the decision
+      process.
 
    *  Consulting with the community on criteria to assess the impact of
       new developments.
@@ -183,22 +185,22 @@ Table of Contents
    *  Local safety guidelines allow the venue and hotels to host a
       meeting with the expected number of participants and staff.
 
-   *  It MUST be possible to provision Internet Access to the Facility
-      and IETF Hotels that allows those attending in person to utilize
-      the Internet for all their IETF, business, and day-to-day needs;
-      in addition, there must be sufficient bandwidth and access for
-      remote attendees.  Provisions include, but are not limited to,
-      native and unmodified IPv4 and IPv6 connectivity, and global
-      reachability; there may be no additional limitation that would
-      materially impact their Internet use.  To ensure availability, it
-      MUST be possible to provision redundant paths to the Internet.
+   *  It is possible to provision Internet access to the venue that
+      allows those attending in person to utilize the Internet for all
+      their IETF, business, and day-to-day needs; in addition, there
+      must be sufficient bandwidth and access for remote attendees.
+      Provisions include, but are not limited to, native and unmodified
+      IPv4 and IPv6 connectivity, and global reachability; there may be
+      no additional limitation that would materially impact their
+      Internet use.  To ensure availability, it MUST be possible to
+      provision redundant paths to the Internet.
 
    *  A reasonable number of food and drink establishments are open and
       available within walking distance to provide for the expected
       number of participants and staff.
 
-   *  Local health and public safety infrastructure should expect to
-      have adequate capacity to support an influx of visitors during the
+   *  Local health and public safety infrastructure expects to have
+      adequate capacity to support an influx of visitors during the
       meeting week.
 
    Finally, the LLC MUST assess the impact on its own operations,
@@ -217,7 +219,7 @@ Table of Contents
    In the event of considerations this document does not foresee, the
    LLC should protect the health and safety of attendees and staff, as
    well as the fiscal health of the organization, with approval from the
-   IESG and a plan to seek a later update of this document.
+   IESG.  The IESG should pursue a later update of this document.
 
 3.2.  IESG and IRTF Chair
 
@@ -252,16 +254,16 @@ Table of Contents
    *  Avoid exorbitant additional travel expenses due to last minute
       flight changes, etc.
 
-   *  Ensure the available time and resources allow the alternative to
-      be adequately prepared.
+   *  Ensure sufficient time and resources to adequately prepare an
+      alternative.
 
 4.1.  Relocation
 
    For attendees, the least disruptive response is to retain the meeting
    week but move it to a more accessible venue.  To the maximum extent
    possible, this will be geographically close to the original venue.
-   In particular, the LLC SHOULD strive to meet the criteria in
-   [RFC8718] and [RFC8719].
+   In particular, the LLC SHOULD meet the criteria in [RFC8718] and
+   [RFC8719].
 
    Relocation that requires new air travel arrangements for attendees
    SHOULD NOT occur less than one month prior to the start of the
@@ -281,7 +283,7 @@ Table of Contents
    same venue, at which conditions are expected to improve.  The new end
    date of a meeting must be at least 30 days before the beginning of
    the following IETF meeting, and a meeting must begin no earlier than
-   1 month after the postponement announcement.
+   30 days after the postponement announcement.
 
    Due to scheduling constraints at the venue, this will usually not be
    feasible.  However, it is more likely to allow attendees to recover
@@ -292,11 +294,11 @@ Table of Contents
 
 4.4.  Cancellation
 
-   As a last resort, the LLC and IESG may cancel a meeting entirely.
-   This is a last resort in the event that worldwide conditions make it
-   difficult for attendees to even attend remotely.  Not holding a
-   meeting at all can have wide implications, such as the nomination
-   process and seating of new officers.
+   The LLC and IESG may cancel a meeting entirely in the event that
+   worldwide conditions make it difficult for attendees to even attend
+   remotely.  Not holding a meeting at all can have wide implications,
+   such as effects on the nomination process and seating of new
+   officers.
 
    Cancellation is likely the only practical alternative when
    emergencies occur immediately before or during a meeting, so that
@@ -316,12 +318,13 @@ Table of Contents
 
    *  Upon postponement, the LLC SHOULD offer refunds to registered
       attendees who claim they cannot attend at the newly scheduled
-      time.
+      time.  Attendees can opt out of receiving a refund.
 
-   *  When a meeting becomes remote, the LLC SHOULD attempt to recover
-      whatever venue-related payments, past or future, it can and rebate
-      this to registered attendees, up to a maximum of their total cost
-      of registration.
+   *  When a meeting becomes remote, the LLC MUST offer to refund
+      registered attendees the difference between their paid
+      registration fee and the equivalent fee for a remote meeting.  The
+      LLC SHOULD offer refunds to registered attendees who do not wish
+      to attend a remote meeting.
 
    *  The LLC SHOULD offer refunds to attendees whose nation of
       residence forbids, or has issued a safety advisory against, visits

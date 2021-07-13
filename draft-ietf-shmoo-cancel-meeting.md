@@ -26,12 +26,12 @@ informative:
 
 --- abstract
 
-The IETF holds three in-person meetings per year to discuss issues and advance
-the Internet. However, various emergencies can make a planned in-person meeting
-infeasible. This document provides criteria to aid the IETF Administration LLC
-(LLC), Internet Engineering Steering Group (IESG), and Internet Research Task
-Force (IRTF) Chair in deciding to postpone, move, or cancel an in-person IETF
-meeting.
+The IETF ordinarily holds three in-person meetings per year to discuss issues
+and advance the Internet. However, various emergencies can make a planned
+in-person meeting infeasible. This document provides criteria to aid the IETF
+Administration LLC (LLC), Internet Engineering Steering Group (IESG), and
+Internet Research Task Force (IRTF) Chair in deciding to postpone, move, or
+cancel an in-person IETF meeting.
 
 --- middle
 
@@ -139,7 +139,8 @@ capacity to support an influx of visitors during the meeting week.
 
 Finally, the LLC MUST assess the impact on its own operations, including:
 
-* The number of critical support staff and contractors who can be at the venue.
+* The number of critical support staff, contractors, and volunteers who can be
+at the venue.
 
 * The financial impact of continuing a meeting, or implementing any of the
 possible remedies.
@@ -263,7 +264,7 @@ LLC may suspend them.
 
 # Security Considerations
 
-This document introduces no new concerns for the security of internet protocols.
+This document introduces no new concerns for the security of Internet protocols.
 
 # IANA Considerations
 
@@ -272,6 +273,10 @@ There are no IANA requirements.
 --- back
 
 # Acknowledgments
+
+Jay Daley provided extensive input to make this document more usable by the LLC.
+Many members of the IESG and the SHMOO working group also provided useful
+comments.
 
 # Change Log
 

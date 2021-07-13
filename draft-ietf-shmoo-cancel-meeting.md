@@ -189,7 +189,7 @@ etc.
 
 * Ensure sufficient time and resources to adequately prepare an alternative.
 
-These remedies are listed in approximate declining order of preference.
+The following remedies are listed in approximate declining order of preference.
 
 ## Relocation
 

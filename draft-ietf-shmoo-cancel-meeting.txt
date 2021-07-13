@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                       9 July 2021
-Expires: 10 January 2022
+Intended status: Best Current Practice                      13 July 2021
+Expires: 14 January 2022
 
 
             Considerations for Cancellation of IETF Meetings
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 January 2022.
+   This Internet-Draft will expire on 14 January 2022.
 
 Copyright Notice
 
@@ -185,15 +185,15 @@ Table of Contents
    *  Local safety guidelines allow the venue and hotels to host a
       meeting with the expected number of participants and staff.
 
-   *  It is possible to provision Internet Access to the Facility and
-      IETF Hotels that allows those attending in person to utilize the
-      Internet for all their IETF, business, and day-to-day needs; in
-      addition, there must be sufficient bandwidth and access for remote
-      attendees.  Provisions include, but are not limited to, native and
-      unmodified IPv4 and IPv6 connectivity, and global reachability;
-      there may be no additional limitation that would materially impact
-      their Internet use.  To ensure availability, it MUST be possible
-      to provision redundant paths to the Internet.
+   *  It is possible to provision Internet access to the venue that
+      allows those attending in person to utilize the Internet for all
+      their IETF, business, and day-to-day needs; in addition, there
+      must be sufficient bandwidth and access for remote attendees.
+      Provisions include, but are not limited to, native and unmodified
+      IPv4 and IPv6 connectivity, and global reachability; there may be
+      no additional limitation that would materially impact their
+      Internet use.  To ensure availability, it MUST be possible to
+      provision redundant paths to the Internet.
 
    *  A reasonable number of food and drink establishments are open and
       available within walking distance to provide for the expected
@@ -254,8 +254,8 @@ Table of Contents
    *  Avoid exorbitant additional travel expenses due to last minute
       flight changes, etc.
 
-   *  Ensure the available time and resources allow the alternative to
-      be adequately prepared.
+   *  Ensure sufficient time and resources to adequately prepare an
+      alternative.
 
 4.1.  Relocation
 

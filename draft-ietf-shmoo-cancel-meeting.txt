@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                      13 July 2021
-Expires: 14 January 2022
+Intended status: Best Current Practice                      14 July 2021
+Expires: 15 January 2022
 
 
             Considerations for Cancellation of IETF Meetings
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 January 2022.
+   This Internet-Draft will expire on 15 January 2022.
 
 Copyright Notice
 
@@ -81,13 +81,15 @@ Table of Contents
    8.  Normative References
    Appendix A.  Acknowledgments
    Appendix B.  Change Log
-     B.1.  Since draft-ietf-shmoo-cancel-meetings-03
-     B.2.  Since draft-ietf-shmoo-cancel-meetings-02
-     B.3.  Since draft-ietf-shmoo-cancel-meetings-01
-     B.4.  Since draft-ietf-shmoo-cancel-meetings-00
-     B.5.  Since draft-duke-shmoo-cancel-meetings-01
-     B.6.  Since draft-duke-shmoo-cancel-meetings-00
-     B.7.  Since draft-duke-remote-meetings-00
+     B.1.  Since draft-ietf-shmoo-cancel-meetings-05
+     B.2.  Since draft-ietf-shmoo-cancel-meetings-04
+     B.3.  Since draft-ietf-shmoo-cancel-meetings-03
+     B.4.  Since draft-ietf-shmoo-cancel-meetings-02
+     B.5.  Since draft-ietf-shmoo-cancel-meetings-01
+     B.6.  Since draft-ietf-shmoo-cancel-meetings-00
+     B.7.  Since draft-duke-shmoo-cancel-meetings-01
+     B.8.  Since draft-duke-shmoo-cancel-meetings-00
+     B.9.  Since draft-duke-remote-meetings-00
    Author's Address
 
 1.  Introduction
@@ -381,21 +383,33 @@ Appendix A.  Acknowledgments
 
 Appendix B.  Change Log
 
-B.1.  Since draft-ietf-shmoo-cancel-meetings-03
+B.1.  Since draft-ietf-shmoo-cancel-meetings-05
+
+   *  Minor changes from IETF review
+
+B.2.  Since draft-ietf-shmoo-cancel-meetings-04
+
+   *  Threshold for "emergency" changes to 14 weeks
+
+   *  Clarified refund policy
+
+   *  IETF Last Call nits
+
+B.3.  Since draft-ietf-shmoo-cancel-meetings-03
 
    *  Clarifications from AD review
 
-B.2.  Since draft-ietf-shmoo-cancel-meetings-02
+B.4.  Since draft-ietf-shmoo-cancel-meetings-02
 
    *  Added IRTF to IESG responsibilities
 
    *  WGLC Nits
 
-B.3.  Since draft-ietf-shmoo-cancel-meetings-01
+B.5.  Since draft-ietf-shmoo-cancel-meetings-01
 
    *  Added refund principles for hybrid meetings
 
-B.4.  Since draft-ietf-shmoo-cancel-meetings-00
+B.6.  Since draft-ietf-shmoo-cancel-meetings-00
 
    *  Jay Daley's nits
 
@@ -405,17 +419,17 @@ B.4.  Since draft-ietf-shmoo-cancel-meetings-00
 
    *  Clarified roles of LLC and IESG
 
-B.5.  Since draft-duke-shmoo-cancel-meetings-01
+B.7.  Since draft-duke-shmoo-cancel-meetings-01
 
    *  Change to WG draft
 
-B.6.  Since draft-duke-shmoo-cancel-meetings-00
+B.8.  Since draft-duke-shmoo-cancel-meetings-00
 
    *  Added mention of IRTF
 
    *  Discussed consensus on cancellation
 
-B.7.  Since draft-duke-remote-meetings-00
+B.9.  Since draft-duke-remote-meetings-00
 
    *  Defined "venue"
 

@@ -280,8 +280,15 @@ comments.
 
 # Change Log
 
-## Since draft-ietf-shmoo-cancel-meetings-03
+## Since draft-ietf-shmoo-cancel-meetings-05
+* Minor changes from IETF review
 
+## Since draft-ietf-shmoo-cancel-meetings-04
+* Threshold for "emergency" changes to 14 weeks
+* Clarified refund policy
+* IETF Last Call nits
+
+## Since draft-ietf-shmoo-cancel-meetings-03
 * Clarifications from AD review
 
 ## Since draft-ietf-shmoo-cancel-meetings-02

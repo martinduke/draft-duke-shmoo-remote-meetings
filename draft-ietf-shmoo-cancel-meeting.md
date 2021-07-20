@@ -73,7 +73,7 @@ document are to be interpreted as described in BCP 14 {{!RFC2119}} {{!RFC8174}}
 when, and only when, they appear in all capitals, as shown here.
 
 In this document, the term "venue" refers to both the facility that houses the
-sessions and the official meeting hotel(s).
+sessions and the official meeting hotel(s), as defined in {{!RFC8718}}.
 
 # Decision Criteria and Roles
 

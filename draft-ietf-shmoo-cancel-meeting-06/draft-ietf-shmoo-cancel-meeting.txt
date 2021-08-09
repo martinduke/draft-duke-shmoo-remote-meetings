@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                       9 July 2021
-Expires: 10 January 2022
+Intended status: Best Current Practice                     9 August 2021
+Expires: 10 February 2022
 
 
             Considerations for Cancellation of IETF Meetings
@@ -13,10 +13,13 @@ Expires: 10 January 2022
 
 Abstract
 
-   The IETF holds three in-person meetings per year to discuss and
-   understand issues.  However, various emergencies can make a planned
-   in-person meeting infeasible.  This document provides criteria for
-   assessing meeting feasibility.
+   The IETF ordinarily holds three in-person meetings per year to
+   discuss issues and advance the Internet.  However, various
+   emergencies can make a planned in-person meeting infeasible.  This
+   document provides criteria to aid the IETF Administration LLC (LLC),
+   Internet Engineering Steering Group (IESG), and Internet Research
+   Task Force (IRTF) Chair in deciding to postpone, move, or cancel an
+   in-person IETF meeting.
 
 Discussion Venues
 
@@ -44,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 January 2022.
+   This Internet-Draft will expire on 10 February 2022.
 
 Copyright Notice
 
@@ -78,13 +81,15 @@ Table of Contents
    8.  Normative References
    Appendix A.  Acknowledgments
    Appendix B.  Change Log
-     B.1.  Since draft-ietf-shmoo-cancel-meetings-03
-     B.2.  Since draft-ietf-shmoo-cancel-meetings-02
-     B.3.  Since draft-ietf-shmoo-cancel-meetings-01
-     B.4.  Since draft-ietf-shmoo-cancel-meetings-00
-     B.5.  Since draft-duke-shmoo-cancel-meetings-01
-     B.6.  Since draft-duke-shmoo-cancel-meetings-00
-     B.7.  Since draft-duke-remote-meetings-00
+     B.1.  Since draft-ietf-shmoo-cancel-meetings-05
+     B.2.  Since draft-ietf-shmoo-cancel-meetings-04
+     B.3.  Since draft-ietf-shmoo-cancel-meetings-03
+     B.4.  Since draft-ietf-shmoo-cancel-meetings-02
+     B.5.  Since draft-ietf-shmoo-cancel-meetings-01
+     B.6.  Since draft-ietf-shmoo-cancel-meetings-00
+     B.7.  Since draft-duke-shmoo-cancel-meetings-01
+     B.8.  Since draft-duke-shmoo-cancel-meetings-00
+     B.9.  Since draft-duke-remote-meetings-00
    Author's Address
 
 1.  Introduction
@@ -110,7 +115,7 @@ Table of Contents
       bans.
 
    *  An economic crisis could sharply reduce resources available for
-      travel.
+      travel, resulting in lower expected attendance.
 
    *  Changes in visa policy or other unexpected governmental
       restrictions might make the venue inaccessible to numerous
@@ -130,7 +135,8 @@ Table of Contents
    capitals, as shown here.
 
    In this document, the term "venue" refers to both the facility that
-   houses the sessions and the official meeting hotel(s).
+   houses the sessions and the official meeting hotel(s), as defined in
+   [RFC8718].
 
 3.  Decision Criteria and Roles
 
@@ -153,9 +159,9 @@ Table of Contents
 
    In non-emergency situations, if the LLC determines the scheduled
    meeting clearly cannot proceed (e.g., the venue has permanently
-   closed), then it MUST consult with the community on the reason(s) and
-   its proposed remedy.  In less clear cases, the LLC SHOULD conduct a
-   formal reassessment process that includes:
+   closed), then it MUST share the reason(s) with the community and MUST
+   consult on its proposed remedy.  In less clear cases, the LLC SHOULD
+   conduct a formal reassessment process that includes:
 
    *  Consulting with the community on the timetable of the decision
       process.
@@ -163,12 +169,10 @@ Table of Contents
    *  Consulting with the community on criteria to assess the impact of
       new developments.
 
-   *  Consulting with the community on the form of the assessment
-      report.
-
    *  Publishing an assessment report and recommended remedy.
 
-   *  Seeking approval of the IESG for the recommendation.
+   *  Seeking approval of the IESG and IRTF Chair for the
+      recommendation.
 
    In emergency situations, which lack the time for a consultation
    process, this document provides criteria that have IETF consensus and
@@ -176,8 +180,8 @@ Table of Contents
 
    The LLC will collect information about the likely impact to in-person
    attendance of national travel advisories, national and corporate
-   travel bans, quarantine requirements, etc. and report the results to
-   the IESG.
+   travel bans, availability of transportation, quarantine requirements,
+   etc. and report the results to the IESG and IRTF Chair.
 
    These criteria, some of which are derived from Section 3 of
    [RFC8718], apply to venues that are re-evaluated due to an emergency:
@@ -185,15 +189,15 @@ Table of Contents
    *  Local safety guidelines allow the venue and hotels to host a
       meeting with the expected number of participants and staff.
 
-   *  It is possible to provision Internet Access to the Facility and
-      IETF Hotels that allows those attending in person to utilize the
-      Internet for all their IETF, business, and day-to-day needs; in
-      addition, there must be sufficient bandwidth and access for remote
-      attendees.  Provisions include, but are not limited to, native and
-      unmodified IPv4 and IPv6 connectivity, and global reachability;
-      there may be no additional limitation that would materially impact
-      their Internet use.  To ensure availability, it MUST be possible
-      to provision redundant paths to the Internet.
+   *  It is possible to provision Internet access to the venue that
+      allows those attending in person to utilize the Internet for all
+      their IETF, business, and day-to-day needs; in addition, there
+      must be sufficient bandwidth and access for remote attendees.
+      Provisions include, but are not limited to, native and unmodified
+      IPv4 and IPv6 connectivity, and global reachability; there may be
+      no additional limitation that would materially impact their
+      Internet use.  To ensure availability, it MUST be possible to
+      provision redundant paths to the Internet.
 
    *  A reasonable number of food and drink establishments are open and
       available within walking distance to provide for the expected
@@ -206,32 +210,35 @@ Table of Contents
    Finally, the LLC MUST assess the impact on its own operations,
    including:
 
-   *  The number of critical support staff and contractors who can be at
-      the venue.
+   *  The number of critical support staff, contractors, and volunteers
+      who can be at the venue.
 
    *  The financial impact of continuing a meeting, or implementing any
       of the possible remedies.
 
-   The LLC SHOULD cancel a meeting if it judges a meeting to be
-   logistically impossible or inconsistent with its fiduciary
-   responsibilities.
+   The LLC SHOULD cancel an in-person meeting and explore potential
+   remedies if it judges a meeting to be logistically impossible or
+   inconsistent with its fiduciary responsibilities.
 
    In the event of considerations this document does not foresee, the
    LLC should protect the health and safety of attendees and staff, as
    well as the fiscal health of the organization, with approval from the
-   IESG.  The IESG should pursue a later update of this document.
+   IESG and IRTF Chair.  The IESG should pursue a later update of this
+   document.
 
 3.2.  IESG and IRTF Chair
 
    If the LLC assesses there are no fundamental logistical or financial
    obstacles to holding a meeting in an emergency situation, the IESG
    and IRTF Chair assess if projected attendance is high enough to
-   achieve the benefit of an in-person meeting.
+   achieve the benefit of an in-person meeting.  The IESG and IRTF Chair
+   SHOULD cancel the in-person meeting if that benefit is insufficient.
 
-   The IESG is discouraged from relying on a simple head count of
-   expected meeting attendance.  Even dramatically smaller meetings with
-   large remote participation may be successful.  In addition to the
-   LLC's estimate, the IESG might consider:
+   The IESG and IRTF Chair are discouraged from relying on a simple head
+   count of expected meeting attendance.  Even dramatically smaller
+   meetings with large remote participation may be successful.  In
+   addition to the LLC's estimate, the IESG and IRTF Chair might
+   consider:
 
    *  Are many working groups and research groups largely unaffected by
       the restrictions, so that they can operate effectively?
@@ -242,10 +249,10 @@ Table of Contents
 
 4.  Remedies
 
-   If a meeting cannot be held at the scheduled time and place, the LLC
-   and IESG have several options.  The remedies in this section should
-   be considered in light of four principles, presented in no particular
-   order:
+   If a meeting cannot be held at the scheduled time and place, the LLC,
+   IESG, and IRTF Chair have several options.  The remedies in this
+   section should be considered in light of four principles, presented
+   in no particular order:
 
    *  Hold the scheduled sessions of a meeting in some format.
 
@@ -254,8 +261,11 @@ Table of Contents
    *  Avoid exorbitant additional travel expenses due to last minute
       flight changes, etc.
 
-   *  Ensure the available time and resources allow the alternative to
-      be adequately prepared.
+   *  Ensure sufficient time and resources to adequately prepare an
+      alternative.
+
+   The following remedies are listed in approximate declining order of
+   preference.
 
 4.1.  Relocation
 
@@ -272,7 +282,7 @@ Table of Contents
 4.2.  Virtualization
 
    The second option, and one that has fewer issues with venue
-   availability, is to make a meeting fully remote.  This requires
+   availability, is to make a meeting fully online.  This requires
    different IETF processes and logistical operations that are outside
    the scope of this document.
 
@@ -282,7 +292,7 @@ Table of Contents
    next best option is to delay a meeting until a specific date, at the
    same venue, at which conditions are expected to improve.  The new end
    date of a meeting must be at least 30 days before the beginning of
-   the following IETF meeting, and a meeting must begin no earlier than
+   the following IETF meeting, and a meeting MUST begin no earlier than
    30 days after the postponement announcement.
 
    Due to scheduling constraints at the venue, this will usually not be
@@ -294,11 +304,11 @@ Table of Contents
 
 4.4.  Cancellation
 
-   The LLC and IESG may cancel a meeting entirely in the event that
-   worldwide conditions make it difficult for attendees to even attend
-   remotely.  Not holding a meeting at all can have wide implications,
-   such as effects on the nomination process and seating of new
-   officers.
+   The LLC, IESG, and IRTF Chair may cancel a meeting entirely in the
+   event that worldwide conditions make it difficult for attendees to
+   even attend online.  Not holding a meeting at all can have wide
+   implications, such as effects on the nomination process and seating
+   of new officers.
 
    Cancellation is likely the only practical alternative when
    emergencies occur immediately before or during a meeting, so that
@@ -320,17 +330,17 @@ Table of Contents
       attendees who claim they cannot attend at the newly scheduled
       time.  Attendees can opt out of receiving a refund.
 
-   *  When a meeting becomes remote, the LLC MUST offer to refund
+   *  When a meeting is virtualized, the LLC MUST offer to refund
       registered attendees the difference between their paid
-      registration fee and the equivalent fee for a remote meeting.  The
-      LLC SHOULD offer refunds to registered attendees who do not wish
-      to attend a remote meeting.
+      registration fee and the equivalent fee for an online meeting.
+      The LLC SHOULD offer refunds to registered attendees who do not
+      wish to attend an online meeting.
 
-   *  The LLC SHOULD offer refunds to attendees whose nation of
-      residence forbids, or has issued a safety advisory against, visits
-      to the host venue, even if the in-person meeting will continue.
-      It SHOULD NOT refund cancellations due to employer policy or
-      personal risk assessments.
+   *  The LLC SHOULD offer refunds to attendees whose government
+      forbids, or has issued a safety advisory against, visits to the
+      host venue, even if the in-person meeting will continue.  It
+      SHOULD NOT refund cancellations due to employer policy or personal
+      risk assessments.
 
    These provisions intend to maintain trust between the IETF and its
    participants.  However, under extraordinary threats to the solvency
@@ -338,7 +348,7 @@ Table of Contents
 
 6.  Security Considerations
 
-   This document introduces no new concerns for the security of internet
+   This document introduces no new concerns for the security of Internet
    protocols.
 
 7.  IANA Considerations
@@ -368,23 +378,39 @@ Table of Contents
 
 Appendix A.  Acknowledgments
 
+   Jay Daley provided extensive input to make this document more usable
+   by the LLC.  Many members of the IESG and the SHMOO working group
+   also provided useful comments.
+
 Appendix B.  Change Log
 
-B.1.  Since draft-ietf-shmoo-cancel-meetings-03
+B.1.  Since draft-ietf-shmoo-cancel-meetings-05
+
+   *  Minor changes from IETF review
+
+B.2.  Since draft-ietf-shmoo-cancel-meetings-04
+
+   *  Threshold for "emergency" changes to 14 weeks
+
+   *  Clarified refund policy
+
+   *  IETF Last Call nits
+
+B.3.  Since draft-ietf-shmoo-cancel-meetings-03
 
    *  Clarifications from AD review
 
-B.2.  Since draft-ietf-shmoo-cancel-meetings-02
+B.4.  Since draft-ietf-shmoo-cancel-meetings-02
 
    *  Added IRTF to IESG responsibilities
 
    *  WGLC Nits
 
-B.3.  Since draft-ietf-shmoo-cancel-meetings-01
+B.5.  Since draft-ietf-shmoo-cancel-meetings-01
 
    *  Added refund principles for hybrid meetings
 
-B.4.  Since draft-ietf-shmoo-cancel-meetings-00
+B.6.  Since draft-ietf-shmoo-cancel-meetings-00
 
    *  Jay Daley's nits
 
@@ -394,17 +420,17 @@ B.4.  Since draft-ietf-shmoo-cancel-meetings-00
 
    *  Clarified roles of LLC and IESG
 
-B.5.  Since draft-duke-shmoo-cancel-meetings-01
+B.7.  Since draft-duke-shmoo-cancel-meetings-01
 
    *  Change to WG draft
 
-B.6.  Since draft-duke-shmoo-cancel-meetings-00
+B.8.  Since draft-duke-shmoo-cancel-meetings-00
 
    *  Added mention of IRTF
 
    *  Discussed consensus on cancellation
 
-B.7.  Since draft-duke-remote-meetings-00
+B.9.  Since draft-duke-remote-meetings-00
 
    *  Defined "venue"
 
